@@ -1,0 +1,1 @@
+This application example serves as a comprehensive guide for software developers, offering essential information on DMA configurations for memeory to memory data tranfer.

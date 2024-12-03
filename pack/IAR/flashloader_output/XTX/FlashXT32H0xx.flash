@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flash_device>
+  <exe>$TOOLKIT_DIR$/config/flashloader/XTX/FlashXT32H0xx_RAM16KB.out</exe>
+  <page>4</page>
+  <block>16 0x2000</block>
+  <flash_base>0x08000000</flash_base>
+  <macro>$TOOLKIT_DIR$/config/flashloader/XTX/FlashXT32H0xx.mac</macro>
+  <aggregate>0</aggregate>
+</flash_device>

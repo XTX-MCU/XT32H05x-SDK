@@ -1,0 +1,1 @@
+This application example serves as a comprehensive guide for software developers, offering essential information on GPIO configurations for general-purpose input/output pins (GPIOs).

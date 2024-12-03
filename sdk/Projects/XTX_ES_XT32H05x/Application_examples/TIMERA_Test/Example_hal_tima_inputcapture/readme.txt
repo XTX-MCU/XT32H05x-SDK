@@ -1,0 +1,1 @@
+This application example serves as a comprehensive guide for software developers, offering essential information on advance Timers(TIMA) configurations for genrating timer/pwm output, or capture input signal.
